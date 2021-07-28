@@ -7,7 +7,7 @@
                         <i class="fa fa-mobile" aria-hidden="true"></i>
                     </div>
                     <div class="phone-number ml-4 text-2xl text-white">
-                        +907 200 8534
+                        +907 200 8535
                     </div>
                 </div>
                 <form
